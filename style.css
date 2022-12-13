@@ -1,0 +1,11 @@
+*{
+    margin: o;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+body{
+    background-color: powderblue;
+    background-size: cover;
+    font-family: sans-serif;
+}
