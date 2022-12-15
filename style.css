@@ -9,3 +9,31 @@ body{
     background-size: cover;
     font-family: sans-serif;
 }
+img {
+    width: 500px;
+    height: 500px;
+}
+#heading {
+    text-align: center;
+    background-color: whitesmoke;
+    
+}
+h2 {
+    text-align: center;
+    background-color: whitesmoke;
+}
+.films {
+    background: whitesmoke;
+}
+
+button:active,
+button:hover {
+  outline: 0;
+}
+
+@media (min-width: 1200px) {
+  button {
+    font-size: 24px;
+    min-width: 196px;
+  }
+}
